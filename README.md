@@ -1,6 +1,6 @@
-### RN-Starterkit
+### RNSaga-Starter
 
-## Expo + Redux + React Navigation + Native Base
+## Expo + Redux + Saga + React Navigation + Native Base
 
 ```
 > npm install
