@@ -6,24 +6,3 @@ export function loginRequest(credentials) {
         payload: credentials
     }
 }
-
-// import { LOGIN_SUCCESS, LOGIN_ERROR, LOGOUT } from './constants'
-//
-// export function login(credential) {
-//     if(credential.username.toLowerCase() === 'demo' && credential.password === 'demo') {
-//         return {
-//             type: LOGIN_SUCCESS
-//         }
-//     }
-//     else {
-//         return {
-//             type: LOGIN_ERROR
-//         }
-//     }
-// }
-//
-// export function logout() {
-//     return {
-//         type: LOGOUT
-//     }
-// }
